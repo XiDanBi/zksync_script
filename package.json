@@ -14,6 +14,7 @@
     "create-wallet": "node --trace-warnings --no-warnings --experimental-modules --es-module-specifier-resolution=node ./libs/createWallet.js",
     "zksync-era-lite-nonce": "node --trace-warnings --no-warnings --experimental-modules --es-module-specifier-resolution=node ./src/getEraAndLiteNonce.js"
   },
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
